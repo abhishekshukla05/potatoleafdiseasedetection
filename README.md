@@ -7,10 +7,7 @@ The dataset used for this project consists of a collection of labeled images of 
 
 ## Prerequisites
 Before running the project, you need to ensure the following dependencies are installed:
-- Python [version]
-- TensorFlow [version]
-- Keras [version]
-- [Other libraries or packages]
-
-## Setup
-1. Clone the repository:
+- Python 3.9
+- TensorFlow 2.11.0
+- Keras 2.2.5
+- flask 2.3.2
